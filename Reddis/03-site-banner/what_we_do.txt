@@ -1,0 +1,4 @@
+We create a small usecase of redis
+
+we saw a banner on website so it can be a dynamic banners so we dont need to store banners into  redis 
+
