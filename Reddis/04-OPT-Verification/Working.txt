@@ -1,0 +1,5 @@
+Here we learn about TTL (Time To Live) 
+
+we store key value pair
+
+When we store a key, that time it store notonly value also store metadata like expire,maxAttempts,timestamps
