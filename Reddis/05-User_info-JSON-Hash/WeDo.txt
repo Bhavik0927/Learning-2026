@@ -1,0 +1,12 @@
+
+
+here we are storing user data into redis and it used commonly in industries and its an  best practice
+
+so first we store data in JSON form and also we can save in HashSet
+the key difference is we can't manipultate data in side a JSON bcoz at set data we put in string and while getting we parse data to get... On the other side in HashSet we cant manipultate data bcoz we saved in Object form
+
+
+We used some methods:
+    1. Set - Storing single data
+    2. hset - Storing in object form
+    3. hgetall - Give complete Object
